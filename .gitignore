@@ -2,3 +2,6 @@
 Gemfile.lock
 vendor/bundle/
 *~
+log/
+cache/views/
+secret
