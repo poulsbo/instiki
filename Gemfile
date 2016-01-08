@@ -18,3 +18,4 @@ gem "maruku", :git => 'git://github.com/distler/maruku.git', :branch => 'nokogir
 gem 'iconv', :platforms => [:ruby_20, :ruby_21, :ruby_22, :ruby_23]
 gem 'rdoc-data', :platforms => :ruby_18
 gem 'test-unit', '~> 2.5.5'
+gem "fcgi"
